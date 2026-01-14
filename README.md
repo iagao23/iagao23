@@ -28,6 +28,7 @@
 - Foco em **robustez**, **manutenibilidade** e **uso em campo**
 
 ### 📚 Em evolução
+- Cursando **Engenharia de Software**
 - Aplicações e automações em **C#**
 - Lógica e integrações com **JavaScript**
 - Interfaces simples e funcionais com **HTML/CSS**
