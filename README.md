@@ -5,7 +5,24 @@
 </p>
 
 # 💫 About Me:
-🔧O que eu faço<br>Desenvolvimento de firmware em C/C++ para microcontroladores<br>Integração hardware + software (sensores, atuadores, motores)<br>Comunicação e controle em sistemas embarcados<br>Foco em robustez, manutenibilidade e uso em campo<br>📚 Em evolução<br>Cursando Engenharia de Software<br>Aplicações e automações em C#<br>Lógica e integrações com JavaScript<br>Interfaces simples e funcionais com HTML/CSS
+## 🔧What I do
+Firmware development in C/C++ for microcontrollers
+
+Hardware + software integration (sensors, actuators, motors)
+
+Communication and control in embedded systems
+
+Focus on robustness, maintainability, and field use
+
+## 📚 In progress
+Software Engineering course
+
+Applications and automations in C#
+
+Logic and integrations with JavaScript
+
+Simple and functional interfaces with HTML/CSS
+
 
 
 ## 🌐 Socials:
