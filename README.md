@@ -1,10 +1,6 @@
 <!-- Profile README | iagao23 -->
 
-<p align="center">
-  <img src="assets/header.gif" alt="Header gif" width="300" />
-</p>
-
-# 💫 About Me:
+#  About Me:
 ## 🔧What I do
 Firmware development in C/C++ for microcontrollers
 
